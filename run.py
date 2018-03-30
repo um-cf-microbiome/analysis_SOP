@@ -7,7 +7,7 @@
 import sys, os, pandas
 sys.path.insert(0,'F://software/ml4cf/src')
 job_name = 'example'
-job_dir = 'F://software/analysis-pipeline'
+job_dir = 'F://software/analysis_SOP'
 # Provide .csv file with a column labelled 'Sputum_Number'
 sample_list_file = str(job_dir+'sample_list.csv')
 
