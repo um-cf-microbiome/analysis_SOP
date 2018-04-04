@@ -1,1 +1,0 @@
-make.contigs(file=F://software/analysis_SOP/analysis/mothur/example.files, processors=4)
