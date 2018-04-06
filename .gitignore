@@ -1,2 +1,2 @@
-analysis/mothur/*.fasta*
-analysis/mothur/*.qual*
+test_Miseq_sop_webpage/good/silva.bacteria.fasta
+test_Miseq_sop_webpage/raw/silva.bacteria.fasta
