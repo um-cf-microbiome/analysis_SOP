@@ -1,0 +1,6 @@
+fasta=stability.trim.contigs.good.fasta
+group=stability.contigs.good.groups
+qfile=stability.trim.contigs.qual
+contigsreport=stability.contigs.report
+processors=4
+summary=stability.trim.contigs.summary
